@@ -1,1 +1,1 @@
-# QR-Code-Generator
+Python project # QR-Code-Generator
